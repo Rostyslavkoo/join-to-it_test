@@ -1,0 +1,26 @@
+{
+  "name": "calendar-app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vuetify": "^3.5.10",
+    "@mdi/font": "^7.4.47",
+    "date-fns": "^3.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/tsconfig": "^0.5.1",
+    "typescript": "~5.4.2",
+    "vite": "^5.1.4",
+    "vite-plugin-vuetify": "^2.0.1",
+    "vue-tsc": "^1.8.27"
+  }
+}
+
