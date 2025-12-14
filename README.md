@@ -40,3 +40,4 @@ npm run build
 ## Deployment
 
 Automatically deploys to GitHub Pages on push to `main` branch.
+ 
