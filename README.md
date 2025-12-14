@@ -41,3 +41,4 @@ npm run build
 
 Automatically deploys to GitHub Pages on push to `main` branch.
  
+ link https://rostyslavkoo.github.io/join-to-it_test/
